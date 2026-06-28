@@ -1,5 +1,1 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M42 12C42 10.3431 40.6569 9 39 9H9C7.34315 9 6 10.3431 6 12L6 36C6 37.6569 7.34315 39 9 39H39C40.6569 39 42 37.6569 42 36V12Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M36 15H24M27 21L36 21M12 33H36M36 27H30" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 27L13.5 24M24 27L22.5 24M22.5 24L18 15L13.5 24M22.5 24H13.5" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48"><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M42 12a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v24a3 3 0 0 0 3 3h30a3 3 0 0 0 3-3zM36 15H24m3 6h9M12 33h24m0-6h-6"/><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m12 27 1.5-3M24 27l-1.5-3m0 0L18 15l-4.5 9m9 0h-9"/></svg>
